@@ -1,6 +1,6 @@
 ### Hi there, I'm Diego 👋
 ---
-I'm a software engineer currently working at Shopify 🛍
+I'm a software engineer working at Shopify 🛍
 
 👷🏻‍♂️ I’m currently building using Ruby on Rails and GraphQL, focusing on back end development
 
