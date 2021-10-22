@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Diego 👋
+---
+I'm a software engineer currently working at Shopify 🛍
 
-<!--
-**CaptainDiego/CaptainDiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👷🏻‍♂️ I’m currently building using Ruby on Rails and GraphQL, focusing on back end development
 
-Here are some ideas to get you started:
+🤙 My number one value: KISS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning how to write better technical documentation and articles
+
+🔎 Exploring Solidity and blockchain based systems
+
+🤔 I'm mostly interested in sofware pieces and concepts related to payments and transactions
+
+🏴‍☠️ Fun fact: My handle is CaptainDiego because I am a ship officer by trade 🚢
+
