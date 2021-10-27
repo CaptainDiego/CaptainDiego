@@ -8,11 +8,11 @@
 
 🤙 My number one value: KISS
 
+🤔 I'm mostly interested in sofware pieces and concepts related to payments and transactions
+
 🌱 Currently learning how to write better technical documentation and articles
 
 🔎 Exploring Solidity and blockchain based systems
-
-🤔 I'm mostly interested in sofware pieces and concepts related to payments and transactions
 
 🏴‍☠️ Fun fact: My handle is CaptainDiego because I am a ship officer by trade 🚢
 
