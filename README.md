@@ -12,7 +12,5 @@
 
 🌱 Currently learning how to write better technical documentation and articles
 
-🔎 Exploring Solidity and blockchain based systems
-
 🏴‍☠️ Fun fact: My handle is CaptainDiego because I am a ship officer by trade 🚢
 
