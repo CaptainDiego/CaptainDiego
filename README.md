@@ -1,10 +1,10 @@
 ### Hi, I'm Diego 👋
 
-### I'm a software engineer building [Storesquad](https://www.storesquad.co/) 🛍
+### I'm a software engineer working at [Shopify](https://shopify.com) 🛍
 
 ---
 
-👷🏻‍♂️ I’m currently helping Shopify merchants with their ecommerce development needs
+👷🏻‍♂️ I’m currently working on Shopify features.
 
 🤙 My number one value: KISS
 
