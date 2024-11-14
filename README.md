@@ -4,7 +4,7 @@
 
 ---
 
-👷🏻‍♂️ I’m currently working on Shopify features.
+👷🏻‍♂️ I’m currently working on Shopify Subscriptions APIs.
 
 🤙 My number one value: KISS
 
