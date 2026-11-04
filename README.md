@@ -1,7 +1,10 @@
-👋 Hi I'm Diego.
+### Hi, I'm Diego 👋
+
+### Software engineer exploring what comes after off-the-shelf software
+
+---
 
 🛍 I spent 6 years at [Shopify](https://shopify.com), where I grew from intern to engineering manager in 4 years 🚀. I worked on:
-
 - **Agentic Commerce**
 - **Orders**
 - **Subscriptions APIs**
@@ -12,7 +15,7 @@ I'm still very into the Shopify ecosystem.
 
 > **What happens when software becomes cheap, custom and on-demand?**
 
-🦖 Most businesses run on expensive, one-size-fits-all legacy software. It does half of what they need, and they pay far more for it than they should in 2026.
+🦖 Most small and medium businesses run on expensive, one-size-fits-all legacy software. It does half of what they need, and they pay far more for it than they should in 2026.
 
 🤖 I think AI changes that. I'm interested in:
 - Companies **replacing legacy software with AI-built tools**
